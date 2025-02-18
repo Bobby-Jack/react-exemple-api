@@ -1,0 +1,15 @@
+.navBar{
+    height: 30px;
+    width: 90%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4em 5%;
+}
+
+.template{
+    width: 100%;
+    min-height: 100vh;
+}
