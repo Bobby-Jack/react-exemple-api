@@ -6,6 +6,11 @@ Dit autrement, une API aura pour but de répondre à différente requête proven
 Il pourra : fournir des données, créer de nouvelle donnée, modifier des données ou supprimer des données.
 le client (notre programme react) communique avec ce service en ligne via des requêtes HTTP possible grace à la fonction fetch (il existe d'autre outils en react pour envoyer des requêtes HTTP)
 
+## 0. npm installation
+- react-router-dom
+- abort-controller
+
+
 ## 1. fetch
 
 native à JS, c'est une fonction qui lance une requête sur internet et qui retourne une réponse.
